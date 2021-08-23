@@ -1,5 +1,5 @@
 <h1 align="center">Console.WriteLine ("Ohana is family");</h1>
-<h3 align="center">I'm a student of degree in information systems</h3>
+<h3 align="center">Life is for living</h3>
 
 - 🌱 I’m currently learning **.Net, Java and MySQL**
 
