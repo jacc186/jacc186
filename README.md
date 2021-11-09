@@ -1,6 +1,6 @@
 <h1 align="center">Console.WriteLine ("Life is for living");</h1>
 
-- 🌱 I’m currently learning **.Net
+- 🌱 I’m currently learning .Net
 
 - 📫 **jeschadee@gmail.com**
 
