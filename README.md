@@ -1,5 +1,4 @@
-<h1 align="center">Console.WriteLine ("Ohana is family");</h1>
-<h3 align="center">Life is for living</h3>
+<h1 align="center">Console.WriteLine ("Life is for living");</h1>
 
 - 🌱 I’m currently learning **.Net, Java and MySQL**
 
