@@ -1,4 +1,6 @@
 <h1 align="center">Console.WriteLine ("Life is for living");</h1>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif" width="500" height="320" />
+<side
 
 - 🌱 I’m currently learning .Net
 
